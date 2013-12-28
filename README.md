@@ -1,9 +1,10 @@
 paper-skin
 ==========
-paper-skin is a simple utility for making Minecraft player scins into printable paper crafts using ImageMagick.
-The default scale factor is 48. This fills a sheet of 8.5x11 letter paper.
+paper-skin is a simple script for making Minecraft player skins into printable paper crafts using ImageMagick.
+The default scale factor fills a sheet of 8.5x11 letter paper.
 
 Dimentions and locations of the parts in the skin file:
+-------------------------------------------------------
 
 Head:
 - row 1: 8x8+8+0
