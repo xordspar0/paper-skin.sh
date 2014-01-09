@@ -28,6 +28,5 @@ Arms:
 
 To Do:
 ======
-[X] Mirror the arms and legs.
-[ ] Make ImageMagick draw the borders and tabs instead of using a template.
-[ ] Accept a scale factor argument.
+- Make ImageMagick draw the borders and tabs instead of using a template.
+- Accept a scale factor argument.
