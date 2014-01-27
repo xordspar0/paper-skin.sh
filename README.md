@@ -1,5 +1,5 @@
-paper-skin
-==========
+paper-skin.sh
+=============
 paper-skin is a simple script for making Minecraft player skins into printable paper crafts using ImageMagick.
 The default scale factor fills a sheet of 8.5x11 letter paper.
 
