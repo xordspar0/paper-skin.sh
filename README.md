@@ -28,5 +28,6 @@ Arms:
 
 To Do:
 ======
+- -resize sometimes runs out of memory, jamming up the system.
 - Make ImageMagick draw the borders and tabs instead of using a template.
 - Accept a scale factor argument.
